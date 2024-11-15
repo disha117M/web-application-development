@@ -1,0 +1,9 @@
+sanic
+pytest
+pytest-cov
+motor
+transformers
+codecov
+torch
+tensorflow
+
